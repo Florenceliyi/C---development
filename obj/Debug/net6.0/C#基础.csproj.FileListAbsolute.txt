@@ -1,0 +1,15 @@
+G:\code\C#基础\bin\Debug\net6.0\C#基础.exe
+G:\code\C#基础\bin\Debug\net6.0\C#基础.deps.json
+G:\code\C#基础\bin\Debug\net6.0\C#基础.runtimeconfig.json
+G:\code\C#基础\bin\Debug\net6.0\C#基础.dll
+G:\code\C#基础\bin\Debug\net6.0\C#基础.pdb
+G:\code\C#基础\obj\Debug\net6.0\C#基础.csproj.AssemblyReference.cache
+G:\code\C#基础\obj\Debug\net6.0\C#基础.GeneratedMSBuildEditorConfig.editorconfig
+G:\code\C#基础\obj\Debug\net6.0\C#基础.AssemblyInfoInputs.cache
+G:\code\C#基础\obj\Debug\net6.0\C#基础.AssemblyInfo.cs
+G:\code\C#基础\obj\Debug\net6.0\C#基础.csproj.CoreCompileInputs.cache
+G:\code\C#基础\obj\Debug\net6.0\C#基础.dll
+G:\code\C#基础\obj\Debug\net6.0\refint\C#基础.dll
+G:\code\C#基础\obj\Debug\net6.0\C#基础.pdb
+G:\code\C#基础\obj\Debug\net6.0\C#基础.genruntimeconfig.cache
+G:\code\C#基础\obj\Debug\net6.0\ref\C#基础.dll
